@@ -45,7 +45,7 @@ svg {
 
 .segment.on {
     fill: #df7b00;
-    filter: drop-shadow(0 0 15px rgba(223, 123, 0, 0.75));
+/*     filter: drop-shadow(0 0 15px rgba(223, 123, 0, 0.75)); */
     transition: fill 0.05s linear;
 }
 
