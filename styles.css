@@ -11,6 +11,7 @@ body {
     overflow: hidden;
     position: relative;
     display: inline-block;
+    min-width: 862px;
     padding: 40px 70px 40px 40px;
     border: 1px solid #111;
     border-radius: 40px;
